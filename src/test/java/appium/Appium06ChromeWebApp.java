@@ -11,7 +11,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.Set;
 
-public class Appium06Chrome {
+public class Appium06ChromeWebApp {
 
     @Test
     public void test() throws InterruptedException, MalformedURLException {
